@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="images/titleimage.png">
+    <img src="https://raw.githubusercontent.com/MoserBlog/.github/main/profile/images/titleimage.png">
 </p>
 
 
