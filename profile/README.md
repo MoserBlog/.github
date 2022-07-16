@@ -11,15 +11,22 @@
 
 # Artifacts 
 
-## npm moserblogweb-styles
-https://www.npmjs.com/package/moserblogweb-styles
+## npm @philippmos/moserblog-styles
+https://www.npmjs.com/package/@philippmos/moserblog-styles
 ```
-npm i moserblogweb-styles
+npm i @philippmos/moserblog-styles
 ```
 
 
-## Docker philippmos/moserblog-web
+## Docker Web
 https://hub.docker.com/repository/docker/philippmos/moserblog-web
 ```
 docker pull philippmos/moserblog-web
+```
+
+
+## Docker MediaTool
+https://hub.docker.com/repository/docker/philippmos/moserblog-mediatool
+```
+docker pull philippmos/moserblog-mediatool
 ```
