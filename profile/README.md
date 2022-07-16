@@ -13,7 +13,7 @@
 ## MoserBlog.Web [Docker]
 Web application for providing the functionality of the blog to users.
 
-**Manual:**
+**Manual:** https://github.com/MoserBlog/MoserBlog.Web
 
 **Artifact:** https://hub.docker.com/repository/docker/philippmos/moserblog-web
 ```
@@ -23,7 +23,7 @@ docker pull philippmos/moserblog-web
 ## @philippmos/moserblog-styles [npm]
 Client library for defining styling and behavior of client components.
 
-**Manual:**
+**Manual:** https://github.com/MoserBlog/MoserBlog.Styles
 
 **Artifact:** https://www.npmjs.com/package/@philippmos/moserblog-styles
 ```
@@ -33,7 +33,7 @@ npm i @philippmos/moserblog-styles
 ## MoserBlog.MediaTool [Docker]
 Interface for targeted query and management of media files on Azure blob storage.
 
-**Manual:**
+**Manual:** https://github.com/MoserBlog/MoserBlog.MediaTool
 
 **Artifact:** https://hub.docker.com/repository/docker/philippmos/moserblog-mediatool
 ```
