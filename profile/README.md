@@ -10,22 +10,22 @@
 
 
 # Artifacts 
-
-## npm @philippmos/moserblog-styles
-https://www.npmjs.com/package/@philippmos/moserblog-styles
-```
-npm i @philippmos/moserblog-styles
-```
-
-
-## Docker Web
+## MoserBlog.Web [Docker]
+Web application for providing the functionality of the blog to users.
 https://hub.docker.com/repository/docker/philippmos/moserblog-web
 ```
 docker pull philippmos/moserblog-web
 ```
 
+## @philippmos/moserblog-styles [npm]
+Client library for defining styling and behavior of client components.
+https://www.npmjs.com/package/@philippmos/moserblog-styles
+```
+npm i @philippmos/moserblog-styles
+```
 
-## Docker MediaTool
+## MoserBlog.MediaTool [Docker]
+Interface for targeted query and management of media files on Azure blob storage.
 https://hub.docker.com/repository/docker/philippmos/moserblog-mediatool
 ```
 docker pull philippmos/moserblog-mediatool
